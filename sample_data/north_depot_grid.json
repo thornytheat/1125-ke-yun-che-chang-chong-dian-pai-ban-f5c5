@@ -1,0 +1,94 @@
+{
+  "at": 900,
+  "train_until": 800,
+  "reserve_minutes": 7,
+  "reserve_kwh": 24,
+  "plugs": [
+    {
+      "bay": "N1",
+      "circuit": "K1",
+      "kw": 64,
+      "accessible": true,
+      "outages": [
+        [
+          944,
+          958
+        ]
+      ]
+    },
+    {
+      "bay": "N2",
+      "circuit": "K1",
+      "kw": 58,
+      "accessible": false
+    },
+    {
+      "bay": "N3",
+      "circuit": "K2",
+      "kw": 100,
+      "accessible": true
+    },
+    {
+      "bay": "N4",
+      "circuit": "K2",
+      "kw": 78,
+      "accessible": false,
+      "outages": [
+        [
+          899,
+          928
+        ]
+      ]
+    }
+  ],
+  "feeds": [
+    {
+      "circuit": "K1",
+      "span": [
+        890,
+        930
+      ],
+      "kw": 68
+    },
+    {
+      "circuit": "K1",
+      "span": [
+        930,
+        990
+      ],
+      "kw": 79
+    },
+    {
+      "circuit": "K1",
+      "span": [
+        990,
+        1110
+      ],
+      "kw": 126
+    },
+    {
+      "circuit": "K2",
+      "span": [
+        890,
+        930
+      ],
+      "kw": 68
+    },
+    {
+      "circuit": "K2",
+      "span": [
+        930,
+        990
+      ],
+      "kw": 113
+    },
+    {
+      "circuit": "K2",
+      "span": [
+        990,
+        1110
+      ],
+      "kw": 126
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+[
+  {
+    "duty": "北-312",
+    "bay": "N3",
+    "start": 900,
+    "ending": 915,
+    "before_kwh": "722.10",
+    "after_kwh": "739.10",
+    "verified": true
+  },
+  {
+    "duty": "北-312",
+    "bay": "N3",
+    "start": 915,
+    "ending": 930,
+    "before_kwh": "722.10",
+    "after_kwh": "739.40",
+    "verified": true
+  },
+  {
+    "duty": "北-312",
+    "bay": "N3",
+    "start": 930,
+    "ending": 945,
+    "before_kwh": "722.10",
+    "after_kwh": "747.70",
+    "verified": true
+  },
+  {
+    "duty": "北-312",
+    "bay": "N3",
+    "start": 945,
+    "ending": 960,
+    "before_kwh": "722.10",
+    "after_kwh": "748.00",
+    "verified": true
+  },
+  {
+    "duty": "北-312",
+    "bay": "N3",
+    "start": 960,
+    "ending": 975,
+    "before_kwh": "722.10",
+    "after_kwh": "743.02",
+    "verified": false
+  },
+  {
+    "duty": "北-313",
+    "bay": "N1",
+    "start": 900,
+    "ending": 915,
+    "before_kwh": "722.10",
+    "after_kwh": "730.01",
+    "verified": true
+  },
+  {
+    "duty": "北-321",
+    "bay": "N2",
+    "start": 900,
+    "ending": 915,
+    "before_kwh": "722.10",
+    "after_kwh": "732.09",
+    "verified": true
+  },
+  {
+    "duty": "北-321",
+    "bay": "N1",
+    "start": 915,
+    "ending": 930,
+    "before_kwh": "722.10",
+    "after_kwh": "739.00",
+    "verified": true
+  },
+  {
+    "duty": "北-未录入",
+    "bay": "N1",
+    "start": 915,
+    "ending": 930,
+    "before_kwh": "722.10",
+    "after_kwh": "739.00",
+    "verified": true
+  }
+]

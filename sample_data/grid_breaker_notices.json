@@ -1,0 +1,9 @@
+{
+  "events":[
+    {"circuit":"K1","began":898,"ended":963,"type":"热断开","reported":899,"trace":"LT-釜温"},
+    {"circuit":"K1","began":927,"ended":953,"type":"表计失联","reported":928,"trace":"LT-失联"},
+    {"circuit":"K2","began":800,"ended":950,"type":"表计失联","reported":865,"trace":"K2-缺报"},
+    {"circuit":"K2","began":955,"ended":985,"type":"计划停供","reported":910,"trace":"PP-延期"}
+  ],
+  "readings":[[900,82.5],[901,89],[903,106],[908,123],[909,97],[913,95],[916,84],[922,89],[927,93],[929,85]]
+}

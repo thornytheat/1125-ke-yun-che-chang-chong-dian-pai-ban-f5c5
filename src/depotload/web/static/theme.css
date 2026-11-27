@@ -1,0 +1,11 @@
+:root {
+    color-scheme: light;
+    --bg: #edf7f5; --background: var(--bg);
+    --surface: #ffffff; --ink: #163631; --muted: #4f6864;
+    --accent: #006c62; --border: #a2c9c1; --wash: #d2efea;
+    --rail: #d8eeea; --on-rail: #173e39; --on-accent: #fffdf8;
+    --error: #a72338;
+    --display: "Helvetica Neue","PingFang SC",sans-serif; --type: "PingFang SC",sans-serif;
+    --radius: 0px; --gutter: 18px; --title: 28px;
+    --base: 13px;
+}
